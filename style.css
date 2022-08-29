@@ -1,0 +1,19 @@
+body{
+    font-family: arial;
+    text-align: center;
+
+}
+
+#StudentInformation{
+    background-color: grey;
+    width: 500px;
+    padding: 10px
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
